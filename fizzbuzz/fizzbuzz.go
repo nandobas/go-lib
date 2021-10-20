@@ -4,7 +4,7 @@ import (
 	"strconv"
 )
 
-func fizzbuzz(i int) string {
+func Fizzbuzz(i int) string {
 	var result string
 	var	istr = strconv.Itoa(i)
 
